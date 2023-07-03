@@ -32,6 +32,3 @@ If you're interested in learning more about HTML and CSS, here are some resource
 
 Feel free to make any improvements or add more features to the website. Contributions are welcome!
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
